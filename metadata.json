@@ -1,0 +1,5 @@
+{
+  "name": "RestoFlow AI",
+  "description": "A smart restaurant management system digitizing the ordering process. Features waiter POS, Kitchen Display System (KDS), and AI-powered menu assistance using Gemini.",
+  "requestFramePermissions": []
+}
